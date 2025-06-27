@@ -86,8 +86,8 @@ This project is created for educational and portfolio purposes. Feel free to use
 
 ```bash
 # 1. Clone or download the project
-git clone <repository-url>
-cd library-management-system
+git clone https://github.com/VenomxSpiderman/java-library-management-system.git
+cd java-library-management-system
 
 # 2. Compile the application
 javac LibraryMain.java
@@ -258,11 +258,6 @@ This project is created for educational and portfolio purposes. Feel free to use
 - LinkedIn: [tathagata06](https://linkedin.com/in/tathagata06)
 
 ---
-
-> *"Simple enough to understand, sophisticated enough to impress"*
-   ```bash
-   java LibraryMain
-   ```
 
 ## 📋 Menu Options
 
@@ -536,8 +531,6 @@ private Map<String, LibraryItem> itemMap;  // For O(1) lookups
 - **Overdue Calculation**: O(k) where k is number of borrowed items per member
 private List<LibraryItem> borrowedItems;
 
-public String getMemberId() { return memberId; }
-public List<LibraryItem> getBorrowedItems() { return borrowedItems; }
 ```
 
 ## 🤝 Contributing
@@ -550,18 +543,7 @@ public List<LibraryItem> getBorrowedItems() { return borrowedItems; }
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for more details.
 
-## 👨‍💻 Author
 
-- **Your Name** - [Your GitHub Profile](https://github.com/VenomxSpiderman)
-
-## 📞 Contact
-
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/tathagata06)
-- Project Link: [https://github.com/VenomxSpiderman/library-management-system](https://github.com/VenomxSpiderman/library-management-system)
-
----
-
-⭐ **Star this repository if you found it helpful!** ⭐
+⭐ Star this repository if you found it helpful! ⭐
