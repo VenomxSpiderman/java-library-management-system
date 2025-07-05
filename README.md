@@ -4,9 +4,7 @@
 
 ## 🎯 Project Overview
 
-This Library Management System demonstrates core OOP principles and modern Java feature## 📄 License
-
-This project is created for educational and portfolio purposes. Feel free to use it as a reference for learning Java and OOP principles.n a simple console application. It's designed to be easy to understand while showing key programming concepts.
+This Library Management System demonstrates core OOP principles and modern Java feature
 
 ### 🌟 Key Features
 
